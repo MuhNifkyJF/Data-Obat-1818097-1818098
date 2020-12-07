@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="fontFamily">@font/montserrat</item>
+    <item name="colorPrimary">#F44336</item>
+    <item name="colorPrimaryDark">#FF3333</item>
+    <item name="colorAccent">#FFCC33</item>
+  </style>
+
+  <style name="AppTheme.NoActionbar">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+
+
+</resources>
